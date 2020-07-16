@@ -39,7 +39,7 @@ with the average of each variable for each activity and each subject.
 ### README.md 
 This is the general purpose readme file created during formation of the repository. 
  
-### get_project_data.R 
+### get_data.R 
 
 This is the R script for downloading, unzipping and preparing the data. 
 . 
