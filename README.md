@@ -60,17 +60,3 @@ The tidy dataset is presented in data_summary.txt
 ### CodeBook.md 
 
 The code book contains informations on the total process.
-It consists of the following: 
- 
-  0. Table of Contents 
-  1. Informations on 'data_summary' data table 
-     - Identificators and averages of features 
-     - Description for the variables of 'tidy_data_summary' 
-     - How to load 'data_summary' in R
-     - About 'data_summary' table 
-  2. The process by which the 'data_summary' table was produced 
-  3. Description of the features on which the averages were based 
-     - Informations on how the features were produced from the raw data 
-     - Informations on the collection of raw data 
-     - About the original data set
- 
